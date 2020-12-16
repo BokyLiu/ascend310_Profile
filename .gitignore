@@ -11,3 +11,6 @@
 # Build results
 [Dd]ebug/
 [Rr]elease/
+
+# Vscode dir
+.vscode/
