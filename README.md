@@ -1,18 +1,15 @@
 # Ascend310模型测试工具
 
-------
 
 为了方便AI1模型的测试开发此工具，提供om模型inference耗时测试、结果保存的功能
 
 ## 测试环境
 
-------
 
 应该是C32版本的AI1 --_--!!  （那个npu-info工具挂了，所以我也不知道当前版本）
 
 ## 用法
 
-------
 
 ```shell
 ascend310_Profile [OPTION]
@@ -32,7 +29,6 @@ Eg: ./ascend310_Profile -m model.om -n 10 -i 0 -o
 
 ## 结果
 
-------
 
 ```shell
 
